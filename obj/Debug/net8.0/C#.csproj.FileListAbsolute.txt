@@ -1,0 +1,14 @@
+C:\Users\TeknikDonanim2022\Desktop\C#\bin\Debug\net8.0\C#.exe
+C:\Users\TeknikDonanim2022\Desktop\C#\bin\Debug\net8.0\C#.deps.json
+C:\Users\TeknikDonanim2022\Desktop\C#\bin\Debug\net8.0\C#.runtimeconfig.json
+C:\Users\TeknikDonanim2022\Desktop\C#\bin\Debug\net8.0\C#.dll
+C:\Users\TeknikDonanim2022\Desktop\C#\bin\Debug\net8.0\C#.pdb
+C:\Users\TeknikDonanim2022\Desktop\C#\obj\Debug\net8.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TeknikDonanim2022\Desktop\C#\obj\Debug\net8.0\C#.AssemblyInfoInputs.cache
+C:\Users\TeknikDonanim2022\Desktop\C#\obj\Debug\net8.0\C#.AssemblyInfo.cs
+C:\Users\TeknikDonanim2022\Desktop\C#\obj\Debug\net8.0\C#.csproj.CoreCompileInputs.cache
+C:\Users\TeknikDonanim2022\Desktop\C#\obj\Debug\net8.0\C#.dll
+C:\Users\TeknikDonanim2022\Desktop\C#\obj\Debug\net8.0\refint\C#.dll
+C:\Users\TeknikDonanim2022\Desktop\C#\obj\Debug\net8.0\C#.pdb
+C:\Users\TeknikDonanim2022\Desktop\C#\obj\Debug\net8.0\C#.genruntimeconfig.cache
+C:\Users\TeknikDonanim2022\Desktop\C#\obj\Debug\net8.0\ref\C#.dll
